@@ -1,4 +1,4 @@
-# Fibonacci Project
+# VCC-A2 Assignment
 
 This project consists of three main components: backend, frontend, and an automation script. The entire project is designed for setting up a virtual machine (VM) in Google Cloud Platform (GCP) that leverages auto-scaling policies and enhanced security measures. The solution includes creating a backend application to generate CPU load, containerizing the application using Docker, and deploying it via an instance template and managed instance group.
 
